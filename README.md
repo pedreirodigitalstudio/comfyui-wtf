@@ -34,3 +34,5 @@ Edit `/workspace/runpod-slim/comfyui_args.txt` (one arg per line):
 - `/workspace/runpod-slim/ComfyUI`: ComfyUI install
 - `/workspace/runpod-slim/comfyui_args.txt`: ComfyUI args
 - `/workspace/runpod-slim/filebrowser.db`: FileBrowser DB
+
+[![Runpod](https://api.runpod.io/badge/pedreirodigitalstudio/comfyui-wtf)](https://www.console.runpod.io/hub/pedreirodigitalstudio/comfyui-wtf)
