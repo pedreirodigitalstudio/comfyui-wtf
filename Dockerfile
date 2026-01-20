@@ -144,7 +144,7 @@ RUN mkdir -p /workspace/runpod-slim
 WORKDIR /workspace/runpod-slim
 
 # Expose ports
-EXPOSE 8188 22 8888 8080
+EXPOSE 8188 8189 22 8888 8080
 
 # Copy and set up start script
 COPY start.sh /start.sh
